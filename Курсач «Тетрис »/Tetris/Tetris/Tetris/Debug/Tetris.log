@@ -1,0 +1,7 @@
+﻿  Tetris.cpp
+C:\Users\t.zabenko\Desktop\Tetris\Tetris\Tetris\Tetris.cpp(183,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\t.zabenko\Desktop\Tetris\Tetris\Tetris\Tetris.cpp(230,40): warning C4101: 'cyClient': unreferenced local variable
+C:\Users\t.zabenko\Desktop\Tetris\Tetris\Tetris\Tetris.cpp(230,50): warning C4101: 'iMaxWidth': unreferenced local variable
+C:\Users\t.zabenko\Desktop\Tetris\Tetris\Tetris\Tetris.cpp(230,30): warning C4101: 'cxClient': unreferenced local variable
+C:\Users\t.zabenko\Desktop\Tetris\Tetris\Tetris\Tetris.cpp(672,12): warning C4018: '>': signed/unsigned mismatch
+  Tetris.vcxproj -> C:\Users\t.zabenko\Desktop\Tetris\Tetris\Debug\Tetris.exe
